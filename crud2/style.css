@@ -1,0 +1,22 @@
+body{
+    background-color: cadetblue;
+}
+.rf{
+    width: 400px;
+    height: 500px;
+    margin-left: 400px;
+    border: 2px solid;
+    background-color: aliceblue;
+    align-items: center;
+    /* padding-left: 200px; */
+}
+h2{
+    padding-left: 100px;
+}
+
+.input_field{
+    padding-left: 0px;
+}
+label{
+    padding-left: 15px;
+}
